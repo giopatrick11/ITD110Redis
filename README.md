@@ -1,4 +1,4 @@
-# Student Management System (Hermes Bot)
+# Student Management System
 
 A full-stack application for managing student records using Node.js, Express, and Redis.
 
